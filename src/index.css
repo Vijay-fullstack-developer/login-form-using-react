@@ -1,0 +1,106 @@
+.submit-btn
+{
+   display: flex;
+   justify-content: center;
+   padding: 10px;
+}
+body
+{
+  font-size: 18px;
+  font-family: 'Times New Roman', Times, serif;
+  background-color: rgb(125, 128, 127);
+}
+
+.color
+{
+  background-color: white ;
+  border-radius: 5px;
+  border: 2px solid black;
+  padding: 10px 15px;
+}
+.header
+{
+  
+  text-align: center;
+  font-weight: bold;
+}
+
+ .container
+{
+  margin-bottom: 7px;
+}
+.email-input .input-mail
+{
+  width: 98%;
+}
+.New-person a
+{
+  display: block;
+  text-align: center;
+  font-size: 18px;
+  color: black;
+  text-decoration: none;
+}
+ a:hover
+{
+  text-decoration: underline;
+  
+}
+.add-flex
+{
+  display: flex;
+  justify-content: center;
+}
+
+.container-cell, .input
+{
+  display: flex;
+  justify-content: center;
+  margin: 10px 0px;
+}
+.containers
+{
+ border: 2px solid black;
+ background-color: white;
+ border-radius: 5px;
+ padding: 20px;
+}
+#pwd
+{
+  margin-right: 28px;
+}
+#name-id
+{
+  margin-right: 20px;
+}
+.header-1 .main-title
+{
+  display: block;
+  text-align: center;
+}
+.main-tag
+{
+  display: flex;
+  justify-content: center;
+  list-style-type: none;
+  
+
+}
+.li-tag{
+  padding: 5px;
+  border: 2px solid black;
+  margin: 0px 5px;
+
+}
+
+.li-tag a
+{
+  color: black;
+  text-decoration: none;
+}
+
+.main-tag .li-tag:hover
+{
+  text-decoration: underline;
+  background-color: rgb(215, 234, 234);
+}
